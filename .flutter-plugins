@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.7.0/
+firebase_auth_web=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-4.3.0/
+firebase_core=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.21.1/
+firebase_core_web=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.2/
+flutter_plugin_android_lifecycle=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+google_sign_in=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.4.1/
+google_sign_in_android=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-6.1.0/
+google_sign_in_ios=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_ios-5.5.0/
+google_sign_in_web=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.2/
+local_auth=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-2.1.2/
+local_auth_android=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.11/
+local_auth_ios=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_ios-1.0.9/
+local_auth_windows=/Volumes/Data/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_windows-1.0.3/
